@@ -1,0 +1,17 @@
+img {
+  margin: 0 auto;
+  display: block;
+}
+
+table {
+  margin-left: 50px;
+  margin-right: 100px;
+  width: 90%;
+}
+tr {
+  text-align: center;
+}
+
+td {
+  background-color: rgb(237, 235, 235);
+}
